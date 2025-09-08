@@ -14,6 +14,8 @@ function logType(value: string | number) {
 logType(1);
 logType("SSM");
 
+// Note: typeof() return string
+
 //Write a program that calculates the factorial of a number using a loop
 console.log("**** factorial of a number ****")
 // 1st Approch
